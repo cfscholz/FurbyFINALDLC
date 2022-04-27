@@ -29,10 +29,10 @@
         ]
     },
     {
-        "file": "DRUM.dlc",
-        "title": "DRUM",
+        "file": "DRUML.dlc",
+        "title": "DRUML",
         "buttons": [
-            { "title": "HACK ", "action": [75,0,4,4] }
+            { "title": "DRUML ", "action": [75,0,4,4] }
         ]
     }
 ]
