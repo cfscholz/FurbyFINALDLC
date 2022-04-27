@@ -30,9 +30,9 @@
     },
     {
         "file": "DRUML.dlc",
-        "title": "DRUML",
+        "title": "DRUMLO",
         "buttons": [
-            { "title": "DRUML ", "action": [75,0,4,4] }
+            { "title": "DRUMLO ", "action": [75,0,4,4] }
         ]
     }
 ]
