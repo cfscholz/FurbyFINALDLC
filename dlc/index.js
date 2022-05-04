@@ -22,24 +22,10 @@
         ]
     },
     {
-        "file": "drum.dlc",
-        "title": "DRUM",
-        "buttons": [
-            { "title": "DRUM ", "action": [75,0,2,4] }
-        ]
-    },
-    {
         "file": "ursula.dlc",
-        "title": "Ursula",
+        "title": "ursula",
         "buttons": [
-            { "title": "URSULA ", "action": [75,0,3,4] }
-        ]
-    },
-    {
-        "file": "guitar.dlc",
-        "title": "Guitar",
-        "buttons": [
-            { "title": "DRUM ", "action": [75,0,4,4] }
+            { "title": "Ursula ", "action": [75,0,3,4] }
         ]
     }
 ]
