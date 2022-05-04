@@ -1,36 +1,21 @@
 [
     {
-        "file": "context.dlc",
-        "title": "Context Logo",
+        "file": "drum.dlc",
+        "title": "DRUM",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "DRUMLO ", "action": [75,0,2,4] }
         ]
     },
     {
-        "file": "hacked.dlc",
-        "title": "HACKED",
+        "file": "guitar.dlc",
+        "title": "GUITAR",
         "buttons": [
-            { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
+            { "title": "DRUMLO ", "action": [75,0,3,4] }
         ]
     },
-    {
-        "file": "noimg2.dlc",
-        "title": "Audio only",
-        "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
-        ]
-    },
-    {
-        "file": "chilli.dlc",
-        "title": "Chilli",
-        "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
-        ]
-    },
-    {
-        "file": "DRUML.dlc",
-        "title": "DRUMLO",
+
+        "file": "ursula.dlc",
+        "title": "URSULA",
         "buttons": [
             { "title": "DRUMLO ", "action": [75,0,4,4] }
         ]
