@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "drum.dlc",
+        "file": "druml.dlc",
         "title": "DRUM",
         "buttons": [
-            { "title": "DRUM ", "action": [75,0,2,4] }
+            { "title": "DRUM ", "action": [75,0,4,4] }
         ]
     },
     {
@@ -39,7 +39,7 @@
         "file": "guitar.dlc",
         "title": "GUITAR",
         "buttons": [
-            { "title": "GUITAR", "action": [75,0,4,4] }
+            { "title": "GUITAR", "action": [75,0,2,4] }
         ]
     }
 ]
